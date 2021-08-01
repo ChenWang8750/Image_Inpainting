@@ -42,6 +42,7 @@ Code | pre-trained model
 【CVPR19】[PEPSI : Fast Image Inpainting with Parallel Decoding Network] (https://github.com/Forty-lock/PEPSI-Fast_image_inpainting_with_parallel_decoding_network) |
 【MM19】[Deep Fusion Network for Image Completion](https://github.com/hughplay/DFNet) | Places2_random, CelebA_random
 【MM19】[Progressive Image Inpainting with Full-Resolution Residual Network](https://github.com/ZongyuGuo/Inpainting_FRRN) |
+【IJCAI19】[MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting](https://github.com/wangning-001/MUSICAL) |
 
 ## 2018
 Code | pre-trained model
