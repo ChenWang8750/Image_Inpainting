@@ -13,6 +13,7 @@ Code | pre-trained model
 【CVPR21】[DeFLOCNet: Deep Image Editing via Flexible Low level Controls](https://github.com/KumapowerLIU/DeFLOCNet) |
 【ICCV21】[High-Fidelity Pluralistic Image Completion with Transformers](https://github.com/raywzy/ICT) |
 【SIGGRAPH21】[Seamless Manga Inpainting with Semantics Awareness](https://github.com/msxie92/MangaInpainting) | Manga109 dataset
+【TIP21】[Dynamic Selection Network for Image Inpainting](https://github.com/wangning-001/DSNet) | 
 【IJCAI21】[SPL：Context-Aware Image Inpainting with Learned Semantic Priors](https://github.com/WendongZh/SPL) |  Paris_random, CelebA_random, Places2_random
 
 ## 2020
