@@ -13,8 +13,6 @@ Code | pre-trained model
 【CVPR21】[DeFLOCNet: Deep Image Editing via Flexible Low level Controls](https://github.com/KumapowerLIU/DeFLOCNet) |
 【ICCV21】[High-Fidelity Pluralistic Image Completion with Transformers](https://github.com/raywzy/ICT) |
 【SIGGRAPH21】[Seamless Manga Inpainting with Semantics Awareness](https://github.com/msxie92/MangaInpainting) | Manga109 dataset
-【TIP21】[Dynamic Selection Network for Image Inpainting](https://github.com/wangning-001/DSNet) | 
-【IJCAI21】[SPL：Context-Aware Image Inpainting with Learned Semantic Priors](https://github.com/WendongZh/SPL) |  Paris_random, CelebA_random, Places2_random
 
 ## 2020
 Code | pre-trained model
@@ -26,9 +24,6 @@ Code | pre-trained model
 【ECCV20】[VCNet: a robust approach to blind image inpainting](https://github.com/shepnerd/blindinpainting_vcnet) | FFHQ-HQ_random, CelebA-HQ_random
 【ECCV20】[Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) | CelebA_center, Places2(natural images)_random
 【ECCV20】[A Benchmark for Inpainting of Clothing Images with Irregular Holes](https://github.com/birdortyedi/fashion-image-inpainting) | FashionGen, FashionAI, DeepFashion, DeepFashion2
-【AAAI20】[Region Normalization for Image Inpainting](https://github.com/geekyutao/RN) | Places2_random
-【AAAI20】[Learning to Incorporate Structure Knowledge for Image Inpainting](https://github.com/YoungGod/sturcture-inpainting) | Places2_random
-【MM20】[TDANet: Text-Guided Neural Image Inpainting](https://github.com/idealwhite/tdanet)  | CUB_200_random, COCO_random
 
 ## 2019
 Code | pre-trained model
