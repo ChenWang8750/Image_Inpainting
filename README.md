@@ -37,6 +37,7 @@ Code | pre-trained model
 【ICCV19】[StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://github.com/RenYurui/StructureFlow) | Places2_random, CelebA_random, Paris_random
 【ICCV19】[Coherent Semantic Attention for image inpainting](https://github.com/KumapowerLIU/CSA-inpainting) |
 【ICCV19】[Progressive Reconstruction of Visual Structure for Image Inpainting](https://github.com/jingyuanli001/PRVS-Image-Inpainting) |
+【ICCV19】[FiNet: Compatible and Diverse Fashion Image Inpainting](https://github.com/Skype-line/FiNet-pytorch) |
 【CVPR19】[Pluralistic Image Completion](https://github.com/lyndonzheng/Pluralistic-Inpainting) | CelebA_center, Paris_center, Places2_center, Imagenet_center; CelebA_random, Paris_random, Places2_random, Imagenet_random
 【CVPR19】[Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting](https://github.com/researchmm/PEN-Net-for-Inpainting)|CelebA-HQ_center, DTD_center, Facade_center, Places2_center
 【CVPR19】[Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch) | Paris_random, Places2-10class_random
