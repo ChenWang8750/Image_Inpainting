@@ -13,6 +13,7 @@ Code | pre-trained model
 【CVPR21】[TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations](https://github.com/yzhouas/TransFill-Reference-Inpainting) | RealEstate10K
 【ICCV21】[High-Fidelity Pluralistic Image Completion with Transformers](https://github.com/raywzy/ICT) |
 【SIGGRAPH21】[Seamless Manga Inpainting with Semantics Awareness](https://github.com/msxie92/MangaInpainting) | Manga109 dataset
+【IJCAI21】[SPL：Context-Aware Image Inpainting with Learned Semantic Priors](https://github.com/WendongZh/SPL) |  Paris_random, CelebA_random, Places2_random
 
 ## 2020
 Code | pre-trained model
