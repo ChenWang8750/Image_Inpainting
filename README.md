@@ -38,7 +38,7 @@ Code | pre-trained model
 【ICCV19】[Progressive Reconstruction of Visual Structure for Image Inpainting](https://github.com/jingyuanli001/PRVS-Image-Inpainting) |
 【CVPR19】[Pluralistic Image Completion](https://github.com/lyndonzheng/Pluralistic-Inpainting) | CelebA_center, Paris_center, Places2_center, Imagenet_center; CelebA_random, Paris_random, Places2_random, Imagenet_random
 【CVPR19】[Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch) | Paris_random, Places2-10class_random
-【CVPR19】[Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting](https://github.com/researchmm/PEN-Net-for-Inpainting) | CelebA-HQ_center, DTD_center, Facade_center, Places2_center
+【CVPR19】[Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting](https://github.com/researchmm/PEN-Net-for-Inpainting)|CelebA-HQ_center, DTD_center, Facade_center, Places2_center
 【CVPR19】[PEPSI : Fast Image Inpainting with Parallel Decoding Network] (https://github.com/Forty-lock/PEPSI-Fast_image_inpainting_with_parallel_decoding_network) |
 【MM19】[Deep Fusion Network for Image Completion](https://github.com/hughplay/DFNet) | Places2_random, CelebA_random
 【MM19】[Progressive Image Inpainting with Full-Resolution Residual Network](https://github.com/ZongyuGuo/Inpainting_FRRN) |
