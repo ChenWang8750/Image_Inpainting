@@ -7,7 +7,7 @@ Please contact [me](chenwang8750@gmail.com) if you find any mistake. Thanks! (�
 ## 2021
 Code | pre-trained model
 --|:--
-【CVPR21】[Generating Diverse Structure for Image InpaintingWith Hierarchical VQ-VAE](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) | CelebA-HQ_center, Places2_center, ImageNet_center;\\ CelebA-HQ_random, Places2_random, ImageNet_random
+【CVPR21】[Generating Diverse Structure for Image InpaintingWith Hierarchical VQ-VAE](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) | CelebA-HQ_center, Places2_center, ImageNet_center; CelebA-HQ_random, Places2_random, ImageNet_random
 【CVPR21】[Image Inpainting with External-internal Learning and Monochromic Bottleneck](https://github.com/Tengfei-Wang/external-internal-inpainting) |
 【CVPR21】[PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://github.com/KumapowerLIU/PD-GAN) |
 【CVPR21】[DeFLOCNet Deep Image Editing via Flexible Low level Controls](https://github.com/KumapowerLIU/DeFLOCNet) |
@@ -18,8 +18,7 @@ Code | pre-trained model
 ## 2020
 Code | pre-trained model
 --|:--
-【ECCV20】[VCNet: a robust approach to blind image inpainting]
-(https://github.com/shepnerd/blindinpainting_vcnet) | FFHQ-HQ_random, CelebA-HQ_random
+【ECCV20】[VCNet: a robust approach to blind image inpainting](https://github.com/shepnerd/blindinpainting_vcnet) | FFHQ-HQ_random, CelebA-HQ_random
 【ECCV20】[Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) | CelebA_center, Places2(natural images)_random
 【CVPR20】[Recurrent Feature Reasoning for Image Inpainting](https://github.com/jingyuanli001/RFR-Inpainting) | Paris_random, CelebA_random
 【CVPR20】[Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting](https://github.com/Atlas200dk/sample-imageinpainting-HiFill) | Places2_random
@@ -41,8 +40,7 @@ Code | pre-trained model
 【CVPR19】[Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch) | Paris_random, Places2-10class_random
 【CVPR19】[Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting](https://github.com/researchmm/PEN-Net-for-Inpainting) | CelebA-HQ_center, DTD_center, Facade_center, Places2_center
 【CVPR19】[PEPSI : Fast Image Inpainting with Parallel Decoding Network] (https://github.com/Forty-lock/PEPSI-Fast_image_inpainting_with_parallel_decoding_network) |
-【MM19】[Deep Fusion Network for Image Completion](https://github.com/hughplay/DFNet) | 
-Places2_random, CelebA_random
+【MM19】[Deep Fusion Network for Image Completion](https://github.com/hughplay/DFNet) | Places2_random, CelebA_random
 【MM19】[Progressive Image Inpainting with Full-Resolution Residual Network](https://github.com/ZongyuGuo/Inpainting_FRRN) |
 
 ## 2018
