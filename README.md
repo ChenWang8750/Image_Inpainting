@@ -5,7 +5,7 @@ Please contact [me](chenwang8750@gmail.com) if you find any mistake. Thanks! (�
 
 ## 2021
 Code | pre-trained model
---------------------------------------------------|:--
+:--|:--
 【CVPR21】[Generating Diverse Structure for Image InpaintingWith Hierarchical VQ-VAE](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) | CelebA-HQ_center, Places2_center, ImageNet_center; CelebA-HQ_random, Places2_random, ImageNet_random
 【CVPR21】[Image Inpainting with External-internal Learning and Monochromic Bottleneck](https://github.com/Tengfei-Wang/external-internal-inpainting) |
 【CVPR21】[PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://github.com/KumapowerLIU/PD-GAN) |
@@ -16,7 +16,7 @@ Code | pre-trained model
 
 ## 2020
 Code | pre-trained model
---|:--
+:--|:--
 【ECCV20】[VCNet: a robust approach to blind image inpainting](https://github.com/shepnerd/blindinpainting_vcnet) | FFHQ-HQ_random, CelebA-HQ_random
 【ECCV20】[Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) | CelebA_center, Places2(natural images)_random
 【CVPR20】[Recurrent Feature Reasoning for Image Inpainting](https://github.com/jingyuanli001/RFR-Inpainting) | Paris_random, CelebA_random
@@ -29,7 +29,7 @@ Code | pre-trained model
 
 ## 2019
 Code | pre-trained model
---|:--
+:--|:--
 【ICCV19】[EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://github.com/knazeri/edge-connect) | Places2_random, CelebA_random, Paris_random
 【ICCV19】[Coherent Semantic Attention for image inpainting](https://github.com/KumapowerLIU/CSA-inpainting) |
 【ICCV19】[Free-Form Image Inpainting with Gated Convolution](https://github.com/JiahuiYu/generative_inpainting) | Places2_random, CelebA-HQ_random
@@ -44,7 +44,7 @@ Code | pre-trained model
 
 ## 2018
 Code | pre-trained model
---|:--
+:--|:--
 【ECCV18】[Image Inpainting for Irregular Holes Using Partial Convolutions](https://github.com/NVIDIA/partialconv) | 
 【ECCV18】[Shift-Net: Image Inpainting via Deep Feature Rearrangement](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch) | Paris_center, Celeba-HQ_center, Paris_random, Celeba-HQ_random
 【CVPR18】[Generative Image Inpainting with Contextual Attention](https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0) | CelebA-HQ_center, Places2_center, CelebA_center, ImageNet_center
@@ -52,12 +52,12 @@ Code | pre-trained model
 
 ## 2017
 Code | pre-trained model
---|:--
+:--|:--
 【CVPR17】[High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) | ImageNet_center
 【CVPR17】[Semantic Image Inpainting With Deep Generative Models and image restoration with GANS](https://github.com/ChengBinJin/semantic-image-inpainting) |
 【SIGGRAPH17】[Globally and Locally Consistent Image Completion](https://github.com/satoshiiizuka/siggraph2017_inpainting) | CelebA__center, Places2_random
 
 ## 2016
 Code | pre-trained model
---|:--
+:--|:--
 【CVPR16】[Context Encoders: Feature Learning by Inpainting](https://github.com/pathak22/context-encoder) | ImageNet_center
