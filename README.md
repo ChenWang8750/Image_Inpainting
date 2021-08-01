@@ -41,6 +41,7 @@ Code | pre-trained model
 【ICCV19】[Progressive Reconstruction of Visual Structure for Image Inpainting](https://github.com/jingyuanli001/PRVS-Image-Inpainting) |
 【ICCV19】[FiNet: Compatible and Diverse Fashion Image Inpainting](https://github.com/Skype-line/FiNet-pytorch) |
 【ICCV19】[Localization of Deep Inpainting Using High-Pass Fully Convolutional Network](https://github.com/lihaod/Deep_inpainting_localization) |
+【ICCV19】[SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color](https://github.com/run-youngjoo/SC-FEGAN) |
 【CVPR19】[Pluralistic Image Completion](https://github.com/lyndonzheng/Pluralistic-Inpainting) | CelebA_center, Paris_center, Places2_center, Imagenet_center; CelebA_random, Paris_random, Places2_random, Imagenet_random
 【CVPR19】[Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting](https://github.com/researchmm/PEN-Net-for-Inpainting)|CelebA-HQ_center, DTD_center, Facade_center, Places2_center
 【CVPR19】[PEPSI : Fast Image Inpainting with Parallel Decoding Network] (https://github.com/Forty-lock/PEPSI-Fast_image_inpainting_with_parallel_decoding_network) |
