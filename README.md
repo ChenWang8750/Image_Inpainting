@@ -20,8 +20,7 @@ Code | pre-trained model
 :--|:--
 【ECCV20】[VCNet: a robust approach to blind image inpainting](https://github.com/shepnerd/blindinpainting_vcnet) | FFHQ-HQ_random, CelebA-HQ_random
 【ECCV20】[Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) | CelebA_center, Places2(natural images)_random
-【ECCV20】[A Benchmark for Inpainting of Clothing Images with Irregular Holes
-](https://github.com/birdortyedi/fashion-image-inpainting) | FashionGen, FashionAI, DeepFashion, DeepFashion2
+【ECCV20】[A Benchmark for Inpainting of Clothing Images with Irregular Holes](https://github.com/birdortyedi/fashion-image-inpainting) | FashionGen, FashionAI, DeepFashion, DeepFashion2
 【CVPR20】[Recurrent Feature Reasoning for Image Inpainting](https://github.com/jingyuanli001/RFR-Inpainting) | Paris_random, CelebA_random
 【CVPR20】[Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting](https://github.com/Atlas200dk/sample-imageinpainting-HiFill) | Places2_random
 【CVPR20】[Bringing Old Photos Back to Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) |
