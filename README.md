@@ -3,18 +3,9 @@ This repository is a paper list of image inpainting inspired by [Image-Inpaintin
 
 Please contact [me](chenwang8750@gmail.com) if you find any mistake. Thanks! (●'◡'●) ------Updated on August 1, 2021
 
-<style>
-table th:first-of-type {
-    width: 70%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-</style>
-
 ## 2021
 Code | pre-trained model
---|:--
+--------------------------------------------------|:--
 【CVPR21】[Generating Diverse Structure for Image InpaintingWith Hierarchical VQ-VAE](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) | CelebA-HQ_center, Places2_center, ImageNet_center; CelebA-HQ_random, Places2_random, ImageNet_random
 【CVPR21】[Image Inpainting with External-internal Learning and Monochromic Bottleneck](https://github.com/Tengfei-Wang/external-internal-inpainting) |
 【CVPR21】[PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://github.com/KumapowerLIU/PD-GAN) |
