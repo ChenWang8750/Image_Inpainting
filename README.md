@@ -1,4 +1,4 @@
-# Image Inpainting #
+# Paper list of Image Inpainting #
 This repository is a paper list of image inpainting inspired by [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting#image-inpainting) and [Image-Inpainting](https://github.com/geekyutao/Image-Inpainting).  
 
 Please contact [me](chenwang8750@gmail.com) if you find any mistake. Thanks! (●'◡'●) ------Updated on August 1, 2021
